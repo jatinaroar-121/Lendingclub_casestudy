@@ -1,5 +1,5 @@
 # Lending Club
-> We want to understand the driving factors behind loan default or non-default which are strong parameter of default. We can utilize this knowledge for portfolio and risk assessment in terms of loan issue.
+> In this project we want to understand the driving factors behind loan default or non-default which are strong parameter of default. We can utilize this knowledge for portfolio and risk assessment in terms of loan issue.
 
 
 ## Table of Contents
@@ -9,23 +9,24 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Dataset is for a company which provides loans to customers through an online interface.
+- Customers can get access to lower interest rate loans such as personal loans, business loans, medical procedure etc.
+- Many customers are unable to complete the payment for their loans and hence default. With data from 2007 to 2011 from the company we want to identify which parameters in dataset are strong identifiers of default.
+- Dataset has many fields which shows different attributes of customers, the loan provided and transaction specific details.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas library
+- Matplotlib library
+- Seaborn library
+- Numpy library
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 10 years and above experienced customers have highest default rate.
+- Public record of bankruptcy increase the chances of defaults susbstantially.
+- Renewable energy loans should only be source verified.
+- E,F and G grade loans are of highest defaults rate.
 
 
 
